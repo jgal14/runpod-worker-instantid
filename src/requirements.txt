@@ -3,7 +3,7 @@ transformers==4.38.0
 accelerate
 safetensors
 einops
-onnxruntime-gpu
+onnxruntime
 omegaconf
 peft
 huggingface-hub==0.20.2
